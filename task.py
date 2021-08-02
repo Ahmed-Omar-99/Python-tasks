@@ -88,5 +88,5 @@ s = s + (d * 24 * 60 * 60)
 
 endTime = s + current_time
 
-# print(current_time)
-# print(endTime)
+print(current_time)
+print(endTime)
